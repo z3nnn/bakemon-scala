@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec({file:/home/zen/IdeaProjects/bakemon-scala/}root/test, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 1, Failed 0, Errors 0, Passed 1[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed Apr 7, 2023, 7:54:44 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
